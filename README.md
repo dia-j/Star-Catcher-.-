@@ -2,7 +2,7 @@
 
 *A kawaii collecting adventure featuring an adorable bunny, magical power-ups, combo chains, and falling stars.*
 
-**[▶ Play it live](https://dia-j.github.io/Star-Catcher-./)**
+**[▶ Play it live](https://dia-j.github.io/Star-Catcher-.-/)**
 
 ![Genre](https://img.shields.io/badge/genre-Arcade%20%7C%20Casual-ffb6d9)
 ![Levels](https://img.shields.io/badge/levels-1%20%E2%86%92%205-d080b0)
