@@ -48,7 +48,7 @@ Guide the bunny. Catch falling stars. Collect magical power-ups. Build huge comb
 
 ## 🚀 Play Online
 
-**[▶ Play Star Catcher](https://dia-j.github.io/Star-Catcher-./)**
+**[▶ Play Star Catcher](https://dia-j.github.io/Star-Catcher-.-/)**
 
 ---
 
